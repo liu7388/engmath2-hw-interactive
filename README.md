@@ -5,8 +5,8 @@ This repository contains an interactive web application developed for the **Engi
 
 The core objective of this project is to provide a dynamic, visual simulator for the **1D Heat Equation** using Fourier Sine Series. Built with Python and `Streamlit`, this tool allows users to input custom initial temperature distributions, adjust physical parameters, and observe the real-time thermal diffusion process. It serves as an intuitive educational tool to bridge complex mathematical concepts with visual physics.
 
-* 🌐 **Live Demo (Streamlit Cloud)**: [Click here to launch the interactive simulator](https://your-app-link.streamlit.app)
-* 📑 **Detailed Homework Report (HackMD)**: [Click here to view my full Engineering Mathematics report](https://hackmd.io/your-link-here)
+* 🌐 **Live Demo (Streamlit Cloud)**: [Click here to launch the interactive simulator](https://engmath2-hw-interactive-dqprhzzvjshjwenhxavitu.streamlit.app/)
+* 📑 **Detailed Homework Report (HackMD)**: [Click here to view my full Engineering Mathematics report](https://hackmd.io/@QENvl1H2S7C_KP9TKmSJIA/SJvyBc5bfl)
 
 ---
 
